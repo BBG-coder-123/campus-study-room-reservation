@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: "Microsoft YaHei", sans-serif;
+  background: #f5f7fb;
+  color: #303133;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+button, input, select, textarea {
+  font: inherit;
+}
