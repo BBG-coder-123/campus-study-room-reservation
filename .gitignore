@@ -1,0 +1,16 @@
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Gradle/Maven build outputs
+/target/
+/build/
+
+# Local config
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
